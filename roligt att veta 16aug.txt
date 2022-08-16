@@ -1,0 +1,39 @@
+Länkar tisdag 16/8
+
+Om ni har lust att läsa om en av de första storskaliga
+spionhärvorna som genomfördes med IT via internet, läs
+Clifford Stolls bok om hur han nystade upp härvan nästan
+helt själv fastän han hela tiden motarbetades av myndigheter
+som antingen tyckte det hela inte kunde stämma eller att
+någon annan myndighet skulle göra jobbet:
+
+https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)
+https://en.wikipedia.org/wiki/Clifford_Stoll
+
+
+XKCD om lösenord
+https://xkcd.com/936/
+
+
+Exploits of a Mom
+http://xkcd.com/327/
+
+
+SQL Injection Fools Speed Traps And Clears Your Record
+https://hackaday.com/2014/04/04/sql-injection-fools-speed-traps-and-clears-your-record/
+https://www.reddit.com/r/funny/comments/2vkibk/best_sql_injection_attempt_ever/
+
+
+Stuxnet
+https://en.wikipedia.org/wiki/Stuxnet
+https://sv.wikipedia.org/wiki/Stuxnet
+
+
+Morris worm
+Jag har inte talat om denna idag, men det kan vara lite roligt att
+känna till endå. Bob Morris var student 1988, när han upptäckte ett
+säkerhetshål i Sendmail som vid den tiden var det vanligaste
+serverprogrammet för epost och var nyfiken på om det verkligen
+gick att sprida program den vägen. Det gick, han skapade den första
+kända masken och lyckades sänka hela internet.
+https://en.wikipedia.org/wiki/Morris_worm
